@@ -1,0 +1,17 @@
+App1=>
+
+* Write action function
+
+App2=>
+* given filter and custom filter
+
+django admin document generator
+
+
+app3=>
+set up django debugger tool bar
+
+app4=> Admin Inline 
+
+
+app5 => different model to diff admin site given access to user and customize admin site like header name , title etc see all-about -admin git hub
